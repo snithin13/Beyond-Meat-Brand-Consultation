@@ -1,4 +1,4 @@
-# Beyond-Meat-Brand-Consultation
+# Beyond Meat Brand Consultation
 
 Beyond Meat is a Los Angeles-based producer of plant-based meat substitutes founded in 2009. The company's initial products became available across the United States in 2012. The company has products designed to simulate chicken, beef, and pork sausage.
 
