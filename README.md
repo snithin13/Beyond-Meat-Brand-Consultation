@@ -22,13 +22,17 @@ Setting ourselves as brand consultants for "Beyond Meat", we ventured into measu
 
 ## Approach:
 
-* 
-* 
+* Scraped Twitter, Reddit using generic keywords and Amazon reviews for BeyondMeat products.
+* Cleaned up the data by removing phtos, videos, hyperlinks and nulls.
+* Performed sentiment analysis seperately on the above threee sources.
+* Topic Modeling on Amazon reviews using LDA
+* Lift Analysis on twitter data to measure the perception differences of BeyondMeat products with that of Impossible foods.
 
 ## Inferences:
 
-* 
-* 
+* Majority of general public have positive and neutral sentiments towards vegan products.
+* Positive sentiments on Amazon reviews, but ~90% of the positive reviews mentioned "smell" as a negative factor while cooking.
+* Through lift analysis, we get that BeyondMeat products are more likely to be associated words describing nutritious content, fast food restaurants and less likely to be mentioned with negative word comapred to their competitor. But they show less association wit trial words like 'first time', 'trying' etc.
 
 ## Recommendations to help "Go Beyond":
 
